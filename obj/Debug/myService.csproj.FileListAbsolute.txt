@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\myService\bin\Debug\myService.exe.config
+C:\Users\user\source\repos\myService\bin\Debug\myService.exe
+C:\Users\user\source\repos\myService\bin\Debug\myService.pdb
+C:\Users\user\source\repos\myService\obj\Debug\myService.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\myService\obj\Debug\myService.ProjectInstaller.resources
+C:\Users\user\source\repos\myService\obj\Debug\myService.csproj.GenerateResource.cache
+C:\Users\user\source\repos\myService\obj\Debug\myService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\myService\obj\Debug\myService.exe
+C:\Users\user\source\repos\myService\obj\Debug\myService.pdb

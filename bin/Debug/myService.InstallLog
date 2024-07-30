@@ -1,0 +1,21 @@
+﻿Installation de l'assembly 'C:\Users\user\source\repos\myService\bin\Debug\myService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\myService\bin\Debug\myService.InstallLog
+   assemblypath = C:\Users\user\source\repos\myService\bin\Debug\myService.exe
+Installation du service Service1 en cours...
+Le service Service1 a été installé avec succès.
+Création d'une source EventLog Service1 dans le journal Application...
+Validation de l'assembly 'C:\Users\user\source\repos\myService\bin\Debug\myService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\myService\bin\Debug\myService.InstallLog
+   assemblypath = C:\Users\user\source\repos\myService\bin\Debug\myService.exe
+Désinstallation de l'assembly 'C:\Users\user\source\repos\myService\bin\Debug\myService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\myService\bin\Debug\myService.InstallLog
+   assemblypath = C:\Users\user\source\repos\myService\bin\Debug\myService.exe
+Suppression de la source EventLog Service1.
+Le service Service1 est en cours de suppression du système...
+Le service Service1 a été retiré avec succès du système.
